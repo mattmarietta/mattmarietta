@@ -1,8 +1,6 @@
 ## hey, I'm Matt 
 
-4th year CS Student and ML research assistant interested in AI/ML and always open to collab — feel free to reach out!
-
-currently building an AI research assistant using RAG for my senior project!
+CS Graduate interested in AI/ML and always open to collab — feel free to reach out!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mattmarietta)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mattmarietta24@gmail.com)
